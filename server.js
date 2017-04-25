@@ -15,4 +15,4 @@ app.listen(4000, () => {
 })
 
 
-// TODO: Me quede en el paso 12 "The GraphiQL Tool"
+// TODO: Me quede en la leccion 14
