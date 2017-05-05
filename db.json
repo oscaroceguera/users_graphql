@@ -1,6 +1,6 @@
 {
   "users": [
-    { "id": "23", "fistName": "Oscar", "age": 20},
-    { "id": "47", "fistName": "Carlos", "age": 21}
+    { "id": "23", "firstName": "Oscar", "age": 20},
+    { "id": "47", "firstName": "Carlos", "age": 21}
   ]
 }
