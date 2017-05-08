@@ -13,6 +13,3 @@ app.use('/graphql', expressGraphQL({
 app.listen(4000, () => {
   console.log('Listening');
 })
-
-
-// TODO: Me quede en la leccion 14
